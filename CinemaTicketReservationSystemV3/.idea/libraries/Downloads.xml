@@ -1,0 +1,51 @@
+<component name="libraryTable">
+  <library name="Downloads">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../.." />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../AbstractFactory (1)/AbstractFactory/src" />
+      <root url="file://$PROJECT_DIR$/../../AbstractFactory (3)/AbstractFactory/src" />
+      <root url="file://$PROJECT_DIR$/../../Assignment02/Assignment02/src" />
+      <root url="file://$PROJECT_DIR$/../../Builder (2)/Builder/Builder/src" />
+      <root url="file://$PROJECT_DIR$/../../Builder&amp;Factory 3/Builder&amp;Factory/src" />
+      <root url="file://$PROJECT_DIR$/../../Calendar_2.0/Calendar/src" />
+      <root url="file://$PROJECT_DIR$/../../Delegate01/Delegate01/src" />
+      <root url="file://$PROJECT_DIR$/../../Delegate02/Delegate02/src" />
+      <root url="file://$PROJECT_DIR$/../../Ex01/Ex01/src" />
+      <root url="file://$PROJECT_DIR$/../../Example_Exception_01/Example_Exception_01/Example_Exception_01/src" />
+      <root url="file://$PROJECT_DIR$/../../Example_Exception_02/Example_Exception_02/Example_Exception_02/src" />
+      <root url="file://$PROJECT_DIR$/../../Example_Exception_03/Example_Exception_03/Example_Exception_03/src" />
+      <root url="file://$PROJECT_DIR$/../../Example_Exception_04/Example_Exception_04/Example_Exception_04/src" />
+      <root url="file://$PROJECT_DIR$/../../Example_Exception_05/Example_Exception_05/Example_Exception_05/src" />
+      <root url="file://$PROJECT_DIR$/../../Lab_Exception_02/Lab_Exception_02" />
+      <root url="file://$PROJECT_DIR$/../../Lab_Exception_04/Lab_Exception_04/src" />
+      <root url="file://$PROJECT_DIR$/../../Memento01/Memento01/Memento01/src" />
+      <root url="file://$PROJECT_DIR$/../../Merchant" />
+      <root url="file://$PROJECT_DIR$/../../OOP_-_01 (1)/OOP - 01/OOP - 01/src" />
+      <root url="file://$PROJECT_DIR$/../../OOP_-_03 (1)/OOP - 03/OOP - 03/src" />
+      <root url="file://$PROJECT_DIR$/../../OOP_-_04 (1)/OOP - 04/OOP - 04/src" />
+      <root url="file://$PROJECT_DIR$/../../OOP_-_05 (1)/OOP - 05/OOP - 05/src" />
+      <root url="file://$PROJECT_DIR$/../../OOP_-_06 (1)/OOP - 06/OOP - 06/src" />
+      <root url="file://$PROJECT_DIR$/../../Observer/Observer/Observer01/src" />
+      <root url="file://$PROJECT_DIR$/../../Observer/Observer/Observer02/src" />
+      <root url="file://$PROJECT_DIR$/../../Observer/Observer/Observer03/Observer03/src" />
+      <root url="file://$PROJECT_DIR$/../../Observer/Observer/Observer04/Observer04/src" />
+      <root url="file://$PROJECT_DIR$/../../Pizza 3/Pizza/src" />
+      <root url="file://$PROJECT_DIR$/../../PresentationPhase2 1/PresentationPhase2/src" />
+      <root url="file://$PROJECT_DIR$/../../SnakeGame2 (2)/SnakeGame2/Snake/src" />
+      <root url="file://$PROJECT_DIR$/../../SnakeGame2/Snake/src" />
+      <root url="file://$PROJECT_DIR$/../../Strategy01/Strategy01/Strategy01/src" />
+      <root url="file://$PROJECT_DIR$/../../TemplateMethod/TemplateMethod/TemplateMethod/src" />
+      <root url="file://$PROJECT_DIR$/../../Visitor/Visitor/BeforeVisitor/src" />
+      <root url="file://$PROJECT_DIR$/../../Visitor/Visitor/Visitor01/src" />
+      <root url="file://$PROJECT_DIR$/../../database_02/database_02/6 - Creating a database using JDBC in java" />
+      <root url="file://$PROJECT_DIR$/../../database_02/database_02/7 - JDBC update, insert , delete" />
+      <root url="file://$PROJECT_DIR$/../../snake/Snake game_v2/src" />
+      <root url="file://$PROJECT_DIR$/../.." />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../.." recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../.." recursive="false" type="SOURCES" />
+  </library>
+</component>
